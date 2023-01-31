@@ -15,7 +15,8 @@
        android:textSize="30sp"
        android:textColor="@color/black"
       android:inputType="textPersonName"
-      />
+
+       />
     <EditText
       android:id="@+id/pwd_et"
         android:layout_width="match_parent"
